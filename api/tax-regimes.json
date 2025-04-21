@@ -1,0 +1,29 @@
+{
+    "Forfettario": [
+      "You are exempt from charging VAT on invoices but must still display your VAT number.",
+      "A flat substitute tax (typically 15%, reduced to 5% for eligible startups) replaces regular income tax.",
+      "You're exempt from bookkeeping obligations and don’t need to submit quarterly VAT returns.",
+      "INPS contributions still apply — often under the Gestione Separata or your specific category.",
+      "Annual income thresholds apply (e.g., €85,000) — exceeding them may move you to Ordinario."
+    ],
+    "Ordinario": [
+      "You must charge VAT on every invoice and file VAT returns regularly.",
+      "You’re required to maintain full accounting books or hire a commercialista.",
+      "Business expenses are deductible, including rent, equipment, software, and travel.",
+      "Quarterly income tax prepayments (acconti) are required based on previous earnings.",
+      "You must submit electronic invoices and register with the SDI platform."
+    ],
+    "Regime dei Minimi": [
+      "This older regime applies only if you were already enrolled before it was replaced by Forfettario.",
+      "Offers a 5% substitute tax for up to 5 years, with simplified obligations.",
+      "No VAT applies, and bookkeeping requirements are minimal.",
+      "Not available to new freelancers, but still valid if you transitioned before 2016."
+    ],
+    "Regime Ordinario Semplificato": [
+      "A simplified version of Ordinario with less strict bookkeeping rules but still VAT applicable.",
+      "Ideal for those with incomes just above the Forfettario threshold.",
+      "Still requires SDI invoicing and periodic tax filings.",
+      "Deductible expenses can significantly reduce taxable income."
+    ]
+  }
+  
